@@ -1,7 +1,6 @@
+#Changes during the KT with Pournima
 make changes here
 
 hello world
-
-What should I write here?
 
 test 1
